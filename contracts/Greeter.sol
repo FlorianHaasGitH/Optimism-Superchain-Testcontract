@@ -14,6 +14,5 @@ contract Greeter {
 
     function setGreeting(string memory _greeting) public {
         greeting = _greeting;
-
-
     }
+}
